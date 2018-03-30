@@ -1,5 +1,5 @@
-This is my first React app and was created for Trackmob.
-You can access at https://sharpion.github.io/trackmob/
+This is my first React app and was created for Trackmob.<br>
+It's a simple To Do list with "Add", "Check" and "Delete". You can access at https://sharpion.github.io/trackmob/
 
 ## Details
 - The app was developed based in React tutorials at https://reactjs.org/docs/.
