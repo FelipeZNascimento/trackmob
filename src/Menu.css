@@ -1,0 +1,30 @@
+.MenuContainer {
+  text-align: center;
+  background-color: white;
+  color: black;
+  padding: 20px;
+}
+
+.list {
+	margin: 20px 0 0 0 !important;
+	padding: 0;
+}
+.listItem {
+	margin: 5px 0 5px 0 !important;
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+	text-align: left;
+	/*height: 36px;*/
+	line-height: 36px;
+	vertical-align: middle;	
+}
+.unchecked {
+	font-weight: bold;	
+}
+.checked {
+	text-decoration: line-through;
+	color: grey;
+}
+.button {
+	padding: 0 10px;
+}
